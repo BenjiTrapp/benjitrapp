@@ -2,7 +2,7 @@
 
 - 💼 I am a Cloud Security Engineer, DevOps and Nerd
 - 🔭 I’m currently working on Asimov a Cloud Compliance Checker
-- 🌱 I’m currently learning Cloud Security, k8s, Python, Go
+- 🌱 I’m currently learning/improving my skills at Cloud Security, k8s, Python, Go, Threat Modeling 
 - 💬 Ask me about Dev(Sec)Ops
 - 😄 Pronouns: he/him/his
 - ⚓ Benji's Denkarium: [benjitrapp.github.io](https://benjitrapp.github.io)
