@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 💼 I am a Cloud Security Engineer, DevOps and Nerd
-- 🔭 I’m currently working on Asimov a Cloud Compliance Checker
+- 🔭 I’m currently working on Asimov a Cloud Compliance Checker, master Threat Modeling realted to CloudSec, sharpen my pentesting skills
 - 🌱 I’m currently learning/improving my skills at Cloud Security, k8s, Python, Go, Threat Modeling 
-- 💬 Ask me about Dev(Sec)Ops
+- 💬 Ask me about Dev(Sec)Ops, Cloud, CI/CD (included: Compliance as Code, AppSec Pipelines, Vulnerability Management)
 - 😄 Pronouns: he/him/his
-- ⚓ Benji's Denkarium: [benjitrapp.github.io](https://benjitrapp.github.io)
+- ⚓ Benji's Denkarium/Persive: [benjitrapp.github.io](https://benjitrapp.github.io)
 
 
 #### How to Reach Me?
