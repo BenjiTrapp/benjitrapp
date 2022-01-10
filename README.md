@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning/improving my skills at Cloud Security, k8s, Python, Go, Threat Modeling 
 - 💬 Ask me about Dev(Sec)Ops, Cloud, CI/CD (included: Compliance as Code, AppSec Pipelines, Vulnerability Management)
 - 😄 Pronouns: he/him/his
-- ⚓ Benji's Denkarium/Persive: [benjitrapp.github.io](https://benjitrapp.github.io)
+- ⚓ Benji's Denkarium/Pensive: [benjitrapp.github.io](https://benjitrapp.github.io)
 
 
 #### How to Reach Me?
