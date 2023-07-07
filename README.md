@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 I am a Cyber Defense Expert, Security Engineer, DevOps ,and Nerd
+- 💼 I am a Purple Teamer, Security Engineer, DevOps, and Nerd
 - 🔭 I’m currently working on Asimov a Cloud Compliance Checker, master Threat Modeling realted to CloudSec, sharpen my pentesting skills
 - 🌱 I’m currently learning/improving my skills at Cloud Security, k8s, Python, Go, Threat Modeling 
 - 💬 Ask me about Dev(Sec)Ops, Cloud, CI/CD (included: Compliance as Code, AppSec Pipelines, Vulnerability Management)
