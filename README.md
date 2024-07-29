@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 - 💼 I am a Purple Teamer, Security Engineer, DevOps, and Nerd
-- 🔭 I’m currently working on Asimov a Cloud Compliance Checker, master Threat Modeling realted to CloudSec, sharpen my pentesting skills
-- 🌱 I’m currently learning/improving my skills at Cloud Security, k8s, Python, Go, Threat Modeling 
-- 💬 Ask me about Dev(Sec)Ops, Cloud, CI/CD (included: Compliance as Code, AppSec Pipelines, Vulnerability Management)
+- 🔭 I’m currently working on master Threat Modeling realted to CloudSec, sharpen my pentesting skills, and tweak my Red Teaming skills
+- 🌱 I’m currently learning/improving my skills at Malware Development, k8s, Python, Go, Threat Modeling, and CTI feeds
+- 💬 Ask me about Red Teaming, Dev(Sec)Ops, Cloud, CI/CD (included: Compliance as Code, AppSec Pipelines, Vulnerability Management)
 - 😄 Pronouns: he/him/his
 - ⚓ Benji's Denkarium/Pensive: [benjitrapp.github.io](https://benjitrapp.github.io)
 
