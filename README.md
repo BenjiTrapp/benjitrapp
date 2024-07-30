@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hey%2C+I'm+Benji+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF0307&random=false&width=435&lines=Hej%2C+I'm+Benji+🦝)](https://git.io/typing-svg)
 
-### Hi there 👋
+### About me👋
 
 - 💼 I am a Purple Teamer, Security Engineer, DevOps, and Nerd
 - 🔭 I’m currently working on master Threat Modeling realted to CloudSec, sharpen my pentesting skills, and tweak my Red Teaming skills
