@@ -2,13 +2,13 @@
 
 ### About me👋
 
-- 💼 I am Red Teamer that used to be blue, Dev(Sec)Ops, and Nerd
-- 🔭 I’m currently working on master Threat Modeling realted to CloudSec, sharpen my pentesting skills, and tweak my Red Teaming skills
-- 🌱 I’m currently learning/improving my skills at Malware Development, k8s, Python, Go, Threat Modeling, and CTI feeds
-- 💬 Ask me about Red Teaming, Dev(Sec)Ops, Cloud, CI/CD (included: Compliance as Code, AppSec Pipelines, Vulnerability Management)
-- 😄 Pronouns: he/him/his
-- ⚓ Benji's Denkarium/Pensive: [benjitrapp.github.io](https://benjitrapp.github.io)
+- 🔮 Daywalker in Cybersecurity: Navigating the thin line between the Red and Blue worlds
+- 🔭 Breaking things by night, architecting resilience by day — merging offensive tradecraft with structural defense
+- 🌱 Deepening the rabbit hole: Advanced Malware Dev, Cloud-Native CTI, Kubernetes internals, and Python/Go tooling
+-💬 Ask me about: Offense-Informed Defense, Cyber Defense Strategy, Red Teaming, DevSecOps, Cloud & K8s Security, CI/CD Security Pipelines (Compliance as Code, Vulnerability Management)
 
+- ⚓ Benji's Denkarium / Pensieve: [benjitrapp.github.io](https://benjitrapp.github.io)
+  
 
 #### How to Reach Me?
 
