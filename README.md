@@ -5,8 +5,7 @@
 - 🔮 Daywalker in Cybersecurity: Navigating the thin line between the Red and Blue worlds
 - 🔭 Breaking things by night, architecting resilience by day — merging offensive tradecraft with structural defense
 - 🌱 Deepening the rabbit hole: Advanced Malware Dev, Cloud-Native CTI, Kubernetes internals, and Python/Go tooling
--💬 Ask me about: Offense-Informed Defense, Cyber Defense Strategy, Red Teaming, DevSecOps, Cloud & K8s Security, CI/CD Security Pipelines (Compliance as Code, Vulnerability Management)
-
+- 💬 Ask me about: Offense-Informed Defense, Cyber Defense Strategy, Red Teaming, DevSecOps, Cloud & K8s Security, CI/CD Security Pipelines (Compliance as Code, Vulnerability Management)
 - ⚓ Benji's Denkarium / Pensieve: [benjitrapp.github.io](https://benjitrapp.github.io)
   
 
